@@ -6,8 +6,11 @@
 <br />
 <img src="https://i.ibb.co/KsCRQmL/subtotal.jpg" width="100%" height="100%">
 <br/ >
+
 **Note that when entering card details, do not enter any real information on your card. Just enter 4242 4242 4242 4242 424 24242**
 <img src="https://i.ibb.co/y831z8X/Checkout.jpg" width="100%" height="100%">
+
+
 
 > The layout of the website is created using React components and the payment system is set up using Stripe API. User authentication and payment information are handled using Firebase Authentication and Firestore Database. The site is hosted by Firebase.
 
